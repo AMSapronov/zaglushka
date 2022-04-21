@@ -112,14 +112,14 @@ def callback_worker(call):
 #	
 
 	
-bot.polling(none_stop=True, interval=0)
+#bot.polling(none_stop=True, interval=0)
 
-#while True:
-#	try:
-#		bot.polling(none_stop=True)
-#	except Exception as e:
-#
-#		print(e) 
-#
-#		time.sleep(15)			
+while True:
+	try:
+		bot.polling(none_stop=True)
+	except Exception as e:
+
+		print(e) 
+
+		time.sleep(15)			
 	
