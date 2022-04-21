@@ -1,0 +1,13 @@
+{
+	"c1": "Общий конфиг",
+	
+	"bottoken": "",
+	"answer": "answer.json",
+	
+	"c2": "SQL",
+	
+	"dbname": "infostorage",
+	"dbuser": "postgres",
+	"dbpass": "",
+	"dbhost": "localhost"
+}
